@@ -51,4 +51,9 @@ class ListaEncadenada:
                 while index.getId()!=id:
                     index=index.next
                     before_index=before_index.next
-                
+    
+    def insertaNodoEnPosicion(self,posicion):
+        if 
+        
+        
+        
